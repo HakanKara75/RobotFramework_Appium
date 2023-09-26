@@ -1,0 +1,5 @@
+Terminale pip install robotframework-appiumlibrary
+komutu yazılır.
+
+2- Konsolda çıkan "To update, run" mesajı yanındaki "python.exe -m pip install --upgrade pip"
+komutu konsola yazılır
